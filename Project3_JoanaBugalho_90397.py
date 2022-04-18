@@ -2,7 +2,7 @@
 """
 Created on Sun 7th Jul 12:12:59 2021
 
-@author: Joana Bugalho
+@author: Joana Bugal
 """
 
 #import libraries
